@@ -1,5 +1,5 @@
 ---
-title: Hey there! ':wave:'
+title: Hey there! :wave:
 subtitle: I'm Nishant! Born in Atlanta, I've been lucky enough to call Chicago, Boston, Sarasota, Gainesville, and Rochester home.
 description: About Me
 featured_image:
