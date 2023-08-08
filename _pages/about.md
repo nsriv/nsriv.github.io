@@ -1,34 +1,18 @@
 ---
-title: About Duet
-subtitle: Duet is a beautiful Jekyll portfolio theme designed to showcase your work in style. Perfect for designers, artists, photographers and developers to use for their portfolio website.
-description: Duet is a beautiful Jekyll portfolio theme.
-featured_image: /images/demo/demo-landscape.jpg
+title: Hey there! :wave:
+subtitle: I'm Nishant! Born in Atlanta, I've been lucky enough to call Chicago, Boston, Sarasota, Gainesville, and Rochester home.
+description: About Me
+featured_image: /images/about/about_profile.jpeg
 ---
 
-![](/images/demo/demo-landscape.jpg)
+![](/images/about/about_profile.jpeg)
 
-## Features
+In my free time, I like to read (taking baby steps into fiction after years of strictly nonfiction), watch soccer and Formula 1, and take photos of the world around me.
 
-We've packed Duet full of powerful features to help showcase your work:
+I'm a passionate believer in the world being better off for having more generalists. There are many devoted to pushing the world forward, but I'm focused on making sure the rewards from the front make it to the back of the line.
 
-* Beautiful, minimal design
-* Two-column masonry grid layout
-* Responsive – works perfectly on all devices
-* Portfolio post type
-* Blog with pagination
-* Sleek Ajax navigation and page transitions
-* Unique 'gallery' feature for image grids and carousels
-* Built-in contact form with Formspree integration
-* Full markdown support and code highlighting
-* Social media icons
-* Fast page rendering
-* Built with SEO best practices in mind
-* Customize everything – colors, spacing, fonts, sizes etc. – via a simple settings file
-* Works with GitHub Pages
-* Updated and supported by the developers
+To that end, I'm transitioning from a career as an educator to analytical roles that center human potential and incorporate my disparate interests in politics, public advocacy, technology, impact litigation, and development economics.
 
-## Get Duet
+Currently, I'm actively looking for new opportunities as a Data Analyst.
 
-Duet is created and supported by [Jekyll Themes](https://jekyllthemes.io), and is available for $29.
-
-<a href="https://jekyllthemes.io/theme/duet-portfolio-jekyll-theme" class="button button--large">Get This Theme</a>
+Always happy to talk! Feel free to reach out @nsriv on any major socials, or contact me through the site.
