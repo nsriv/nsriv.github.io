@@ -5,7 +5,7 @@ description: About Me
 featured_image:
 ---
 
-<img src= "https://github.com/nsriv/nsriv.github.io/blob/master/images/about/about_profile.jpeg" width= 50%, height= 50%>
+![Picture of Nishant Srivastava](/images/about/about_profile.jpeg)
 
 In my free time, I like to read (taking baby steps into fiction after years of strictly nonfiction), watch soccer and Formula 1, and take photos of the world around me.
 
