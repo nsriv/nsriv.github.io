@@ -12,10 +12,6 @@ menu_settings:
       url: '/'
     - title: 'About'
       url: '/about'
-    - title: 'Projects'
-      url: '/projects'
-    - title: 'Blog'
-      url: '/blog/'
     - title: 'Contact'
       url: '/contact'
 
@@ -37,7 +33,7 @@ contact_settings:
 social_settings:
   facebook_url: ''
   twitter_url: 'https://twitter.com/nsriv'
-  instagram_url: 'http://instagram.com/nsriv'
+  instagram_url: 'https://instagram.com/nsriv'
   snapchat_url: ''
   youtube_url: ''
   google-plus_url: ''
@@ -60,7 +56,7 @@ social_settings:
   soundcloud_url: ''
   spotify_url: ''
   bandcamp_url: ''
-  linkedin_url: ''
+  linkedin_url: 'https://www.linkedin.com/in/nsrivastava225'
 
 color_settings:
   background_color: '#ffffff'
