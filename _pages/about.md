@@ -5,7 +5,7 @@ description: About Me
 featured_image:
 ---
 
-![Picture of Nishant Srivastava](/images/about/about_profile.jpeg)
+![Picture of Nishant Srivastava](/images/about/about_profile.jpeg){: height="250"}
 
 In my free time, I like to read (taking baby steps into fiction after years of strictly nonfiction), watch soccer and Formula 1, and take photos of the world around me.
 
